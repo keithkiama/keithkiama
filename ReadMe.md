@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Full Stack Development at Moringa School in order to fulfill my lifelong dream of becoming a software engineer
+I am currently learning Full Stack Development at Moringa School in order to fulfill my lifelong dream of becoming a Software Engineer
 
 
 ## 🌐 Socials:
