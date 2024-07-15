@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer currently undertaking a Data Science degree.
+Full Stack Engineer currently undertaking a Data Science degree.
 
 
 ## 🌐 Socials:
