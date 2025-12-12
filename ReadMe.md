@@ -12,14 +12,11 @@ Full Stack Engineer currently undertaking a Data Science degree.
 ![](https://nirzak-streak-stats.vercel.app/?user=keithkiama&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keithkiama&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=keithkiama&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=keithkiama&icon=8&color=11)](https://visitcount.itsvg.in)
-
 ## 💰 You can help me by Donating
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/HybridPredatorYT) 
+
+---
+[![](https://visitcount.itsvg.in/api?id=keithkiama&icon=8&color=11)](https://visitcount.itsvg.in)
