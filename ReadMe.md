@@ -22,4 +22,4 @@ Full Stack Engineer currently undertaking a Data Science degree.
 [![](https://visitcount.itsvg.in/api?id=keithkiama&icon=8&color=11)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/HybridPredatorYT?vanity=user) 
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/HybridPredatorYT) 
